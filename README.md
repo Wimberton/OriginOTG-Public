@@ -1,4 +1,4 @@
-# Download the Best Free Off the Grid Cheat, OriginOTG <a href="https://www.unknowncheats.me/forum/other-fps-games/667423-originotg-free-public-wallhacks-esp-grid.html"><img align="right" src="https://i.gyazo.com/7e7b0b3f8bd20565233fe2f3fb08d250.png" width="32" height="32"></a>
+# Download Best Free Off the Grid Cheat, OriginOTG <a href="https://www.unknowncheats.me/forum/other-fps-games/667423-originotg-free-public-wallhacks-esp-grid.html"><img align="right" src="https://i.gyazo.com/7e7b0b3f8bd20565233fe2f3fb08d250.png" width="32" height="32"></a>
 [OriginOTG is the most powerful cheat available for Off the Grid](https://getos.me/). It's completely free, and comes with tons of overpowered features like player and item ESP, visibility checks, aimbots, speedhacks, and more! OriginOTG is under active development, so there may be a few bugs.
 
 ## Quick Links
