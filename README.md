@@ -22,7 +22,6 @@ Watch a short demo of OriginOTG in action:
 1. Open the loader
 2. Open the game
 3. Press login
-   - Enjoy!
 
 Press `INSERT` to toggle the menu.
 
