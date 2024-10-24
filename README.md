@@ -3,22 +3,19 @@ OriginOTG is a simple yet effective cheat available for **Off the Grid**. It inc
 
 Here’s a screenshot of OriginOTG in action:
 ![OriginOTG Screenshot](https://i.gyazo.com/c8db19cd70aa184060f11f9d3abb2868.jpg)
-
-## Video Demo
-
-Watch a short demo of OriginOTG in action:
-
-<video width="600" controls>
-  <source src="./videos/originotg-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![OriginOTG Screenshot 2](https://i.gyazo.com/37ceb18203a1189a9da6bd207120ece1.jpg)
 
 ## Off the Grid Compatibility
 - **Game Version:** 5.4.3-329924
 - **Client:** Epic Games
 - **Config Save:** Automatically saves configured values
 
-## Usage
+## FREE Usage
+1. Bypass EAC
+2. Inject DLL into G01Client-Win64-Shipping.exe
+3. Enjoy!
+
+## PREMIUM Usage
 1. Open the loader
 2. Open the game
 3. Press login
