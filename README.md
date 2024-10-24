@@ -1,6 +1,18 @@
 # OriginOTG - Off the Grid Cheat (GetOS.me)
 OriginOTG is a simple yet effective cheat available for **Off the Grid**. It includes features like player and item ESP, visibility checks, aimbots, speedhacks, and more! OriginOTG is under active development, so there may be a few bugs.
 
+Here’s a screenshot of OriginOTG in action:
+![OriginOTG Screenshot](https://i.gyazo.com/c8db19cd70aa184060f11f9d3abb2868.jpg)
+
+## Video Demo
+
+Watch a short demo of OriginOTG in action:
+
+<video width="600" controls>
+  <source src="./videos/originotg-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Off the Grid Compatibility
 - **Game Version:** 5.4.3-329924
 - **Client:** Epic Games
