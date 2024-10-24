@@ -31,7 +31,7 @@ Press `INSERT` to toggle the menu.
 [GET FREE EDITION](https://getos.me/signin)  
 [GET SUPPORTER EDITION](https://getos.me/)
 
-## Current Features List
+<img align="center" src="https://i.gyazo.com/a31227e25a080e65054a4737a4baa6e1.png" width="auto" height="auto">
 
 ### General ESP Features
 - **ESP Thickness:** Change the thickness of all available ESP elements.
