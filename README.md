@@ -5,7 +5,7 @@ Here’s a screenshot of OriginOTG in action:
 ![OriginOTG Screenshot](https://i.gyazo.com/c8db19cd70aa184060f11f9d3abb2868.jpg)
 ![OriginOTG Screenshot 2](https://i.gyazo.com/37ceb18203a1189a9da6bd207120ece1.jpg)
 
-## Off the Grid Compatibility
+## Off the Grid Game Compatibility
 - **Game Version:** 5.4.3-329924
 - **Client:** Epic Games
 - **Config Save:** Automatically saves configured values
